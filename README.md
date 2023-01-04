@@ -14,10 +14,10 @@ framework, Axios to send information from the forms to the backend, Express Node
 and the Express app object to query the database.
 
 # How to Run
-The instructions on how to run this project are provided in the "Instructions for Development" pdf
-The main zip file is called "IT420-Web-Project-main.zip"
-The sql code to create the database is provided in the "spw.sql" file
-Finally, some helpful SQL commands with examples are listed in the "SQL Commands" pdf
+- The instructions on how to run this project are provided in the "Instructions for Development" pdf
+- The main zip file is called "IT420-Web-Project-main.zip"
+- The sql code to create the database is provided in the "spw.sql" file
+- Finally, some helpful SQL commands with examples are listed in the "SQL Commands" pdf
 
 # My Contributions
 This project was a team effort, but the following is a list of my direct contributions to this project:

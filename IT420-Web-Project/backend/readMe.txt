@@ -7,4 +7,4 @@ To run the backend in dev mode to continuously refresh server and see changes ma
 NOTE: If "permission denied" error occurs from running above command, try reinstalling nodemon 
 globally on your system using:
 
-"sudo npm install -g nodemon" though I'm fairly certain this only occurred for me kepuz I'm on a Mac.
+"sudo npm install -g nodemon" though I'm fairly certain this only occurred for me becuz I'm on a Mac.

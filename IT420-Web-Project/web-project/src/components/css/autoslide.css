@@ -1,0 +1,41 @@
+.header-slide {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slide-image { 
+    width: 100%;
+    max-width: 90%;
+    max-height: 490px;
+    
+}
+
+.right-arrow {
+    margin-left: 35px;
+    font-size: 3rem;
+    z-index: 10;
+}
+
+.right-arrow:hover, .left-arrow:hover {
+    filter: brightness(0);
+}
+
+.left-arrow {
+    margin-right: 35px;
+    font-size: 3rem;
+    z-index: 10;
+}
+
+.slide {
+    opacity: 0.8;
+    transition-duration: 1s ease;
+}
+
+.slide.active {
+    opacity: 1;
+    transition-duration: 1s;
+    transform: scale(1.01);
+}

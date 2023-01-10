@@ -1,0 +1,73 @@
+.help-request-container > h3 {
+    text-align: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px 0px 25px 0px;
+}
+
+
+.request-help-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.request-help-form > input {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 80%;
+}
+
+.request-help-form > button {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 80%;
+    text-align: center;
+}
+
+.request-help-form > select {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    width: 80%;
+}
+
+.request-help-form > label {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    width: 80%;
+}
+
+/* This is the styling section for the add children forms */
+
+.child-add-form {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+
+.child-add-form > .input-field {
+    display: flex;
+    flex-direction: column;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.child-add-form > .input-field > input {
+    height: 35px;
+    margin-top: 10px;
+}
+
+.input-field {
+    margin-right: 25px;
+}

@@ -13,8 +13,9 @@ information about his or her children. For the website itself, the full stack we
 framework, Axios to send information from the forms to the backend, Express Node JS as our backend framework,
 and the Express app object to query the database.
 
-# How to Run
-- The instructions on how to run this project are provided in the "Instructions for Development" pdf
+# How to Run/Edit 
+- Clone the repository and cd into Database-Project/IT420-Web-Project/web-project and do "npm start"
+- More in depth instructions on how to run/edit this project are provided in the "Instructions for Development" pdf
 - The main zip file is called "IT420-Web-Project-main.zip"
 - The sql code to create the database is provided in the "spw.sql" file
 - Finally, some helpful SQL commands with examples are listed in the "SQL Commands" pdf
@@ -23,7 +24,7 @@ and the Express app object to query the database.
 This project was a team effort, but the following is a list of my direct contributions to this project:
 - Instructions for Development.pdf
 - spw.sql
-- SQL Commands
+- SQL Commands.pdf
 - The entire "backend" folder 
 - DonateEmail.js in the "src/components" folder
 - Help.js in the "src/components" folder
